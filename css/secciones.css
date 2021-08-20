@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+.fondo {
+    background-color: #000;
+    padding-top: 0.7rem;
+    padding-bottom: 1rem;
+}
+
+/* BOOTSTRAP*/
+.card {
+    color: #fff;
+    border-radius: .25rem;
+    text-align: center;
+    transition: 0.5s;
+}
+
+.card:hover{
+    box-shadow: 5px 5px 5px red;
+    transform:scale(1.1);
+}
+.card-title {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.3rem;
+}
+.card-text {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.5rem;
+}
+.row {
+    justify-content: center;
+}
+.navbar {
+    background-color: #000;
+    color: #fff;
+}
+
+.navbar li a{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.3rem;
+}
+
+.navbar a{
+    font-size: 1.7rem;
+}
+
+.nav-item {
+    padding-left: 2rem;
+}
+.text-white{
+    font-size: 1.5rem;
+}
+
+/*FIN BOOTSTRAP*/
+
+/*Banners*/
+#intro-naruto {
+    background-image: url(../img/bannernaruto.gif);
+    background-color: #fff;
+    height: 260px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#intro-demon-slayer {
+    background-image: url(../img/bannerdemon2.jpg);
+    background-color: #000;
+    height: 260px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#intro-jujutsu-kaisen {
+    background-image: url(../img/bannerjk3.jpg);
+    background-color: #000;
+    height: 260px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#intro-snk {
+    background-image: url(../img/snkbanner.jpg);
+    background-color: #fff;
+    height: 260px;
+    background-position: center;
+    background-size: initial;
+    background-repeat: no-repeat;
+}
+
+#intro-nanatsu {
+    background-image: url(../img/Nanatsu-no-Taizai-2.jpg);
+    background-color: #000;
+    height: 260px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#intro-figuras {
+    background-image: url(../img/Coleccion-de-Figuras.jpg);
+    background-color: #fff;
+    height: 260px;
+    background-size: contain;
+    background-repeat: repeat;
+
+}
+#intro-accesorios {
+    background-image: url(../img/llaveros2.jpg);
+    background-color: #fff;
+    height: 260px;
+    background-size: contain;
+    background-repeat: repeat;
+}
+#intro-contacto {
+    background-image: url(../img/kamadogif.gif);
+    background-color: #000;
+    height: 260px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: repeat;
+
+}
+
+/*Seccion Contacto */
+
+#fondo {
+    background-color: #000;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: auto;
+}
+.texto-contacto{
+    text-align: center;
+    padding-top: 1.5rem;
+}
+.texto-contacto__style{
+    font-size: 2.2rem;
+    color: #fff;
+}
+.centrar-contacto {
+    margin: 0 30px 0 30px;
+}
+.centrar-boton{
+    display: flex;
+    text-align: center;
+    margin-top: 1.5rem;
+}
+input[type=checkbox] {
+    width:25px;
+    height:25px;
+    margin-left: 1.5rem;
+  }

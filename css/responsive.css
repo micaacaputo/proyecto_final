@@ -1,0 +1,292 @@
+/*Responsive*/
+
+@media screen and (max-width: 1200px) {
+    .titulo__seccion {
+        font-size: 2.4rem;
+    }
+    #bienvenida {
+        height: 450px;
+    }
+    #productos{
+        height: 450px;
+    }
+    #quienes-somos {
+        height: 450px;
+    }
+    .texto p {
+        font-size: 1.6rem;
+        margin: 0px 50px 0px 50px;
+    }
+    .menu__footer{
+        font-size: 2rem;
+    }
+    .mangakyou__footer ul li a {
+        font-size: 1.1rem;
+    }
+    .mangakyou__footer ul {
+        margin-bottom: 1rem;
+    }
+    .redes {
+        font-size: 1.7rem;
+    }
+    .padding {
+        padding-bottom: 1.2rem;
+    }
+    #intro-naruto {
+        height: 260px;
+    }
+    #intro-demon-slayer {
+        height: 260px;
+    }
+    #intro-jujutsu-kaisen {
+        height: 260px;
+    }
+    #intro-snk {
+        height: 260px;
+    }
+    #intro-nanatsu {
+        height: 260px;
+    }
+    #intro-figuras {
+        height: 260px;
+    }
+    #intro-accesorios {
+        height: 260px;
+    }
+    #intro-contacto {
+        height: 260px;
+    }
+    .text-white{
+        font-size: 1.5rem;
+    }
+    .texto-contacto__style{
+        font-size: 2.1rem;
+    }
+    input[type=checkbox] {
+        width:25px;
+        height:25px;
+        margin-left: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .titulo__seccion {
+        font-size: 2.1rem;
+    }
+    #bienvenida {
+        height: 350px;
+    }
+    #productos{
+        height: 350px;
+    }
+    #quienes-somos {
+        height: 350px;
+    }
+    .texto p {
+        font-size: 1.4rem;
+        margin: 0px 40px 0px 40px;
+    }
+    .menu__footer{
+        font-size: 1.8rem;
+    }
+    .mangakyou__footer ul li a {
+        font-size: 1.1rem;
+    }
+    .mangakyou__footer ul {
+        margin-bottom: 0.8rem;
+    }
+    .redes {
+        font-size: 1.5rem;
+    }
+    .padding {
+        padding-bottom: 1rem;
+    }
+    #intro-naruto {
+        height: 240px;
+    }
+    #intro-demon-slayer {
+        height: 240px;
+    }
+    #intro-jujutsu-kaisen {
+        height: 240px;
+    }
+    #intro-snk {
+        height: 240px;
+    }
+    #intro-nanatsu {
+        height: 240px;
+    }
+    #intro-figuras {
+        height: 240px;
+    }
+    #intro-accesorios {
+        height: 240px;
+    }
+    #intro-contacto {
+        height: 240px;
+    }
+    .text-white{
+        font-size: 1.2rem;
+    }
+    .texto-contacto__style{
+        font-size: 1.8rem;
+    }
+    input[type=checkbox] {
+        width: 23px;
+        height: 23px;
+        margin-left: 1.3rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .titulo__seccion {
+        font-size: 1.8rem;
+    }
+    #bienvenida {
+        height: 220px;
+    }
+    #productos{
+        height: 220px;
+    }
+    #quienes-somos {
+        height: 220px;
+    }
+    .texto p {
+        font-size: 1.2rem;
+        margin: 0px 30px 0px 30px;
+    }
+    .menu__footer{
+        font-size: 1.45rem;
+    }
+    .mangakyou__footer ul li a {
+        font-size: 1rem;
+    }
+    .mangakyou__footer ul {
+        margin-bottom: 0.7rem;
+    }
+    .redes {
+        font-size: 1.2rem;
+    }
+    .padding {
+        padding-bottom: 0.8rem;
+    }
+    .card-title {
+        font-size: 1.2rem;
+    }
+    .card-text {
+        font-size: 1.3rem;
+    }
+    #intro-naruto {
+        height: 200px;
+    }
+    #intro-demon-slayer {
+        height: 200px;
+    }
+    #intro-jujutsu-kaisen {
+        height: 200px;
+    }
+    #intro-snk {
+        height: 200px;
+    }
+    #intro-nanatsu {
+        height: 200px;
+    }
+    #intro-figuras {
+        height: 200px;
+    }
+    #intro-accesorios {
+        height: 200px;
+    }
+    #intro-contacto {
+        height: 200px;
+    }
+    .text-white{
+        font-size: 1.2rem;
+    }
+    .texto-contacto__style{
+        font-size: 1.5rem;
+    }
+    input[type=checkbox] {
+        width: 21px;
+        height: 21px;
+        margin-left: 1rem;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .titulo__seccion {
+        font-size: 1.5rem;
+    }
+    #bienvenida {
+        height: 150px;
+    }
+    #productos{
+        height: 150px;
+    }
+    #quienes-somos {
+        height: 150px;
+    }
+    .texto p {
+        font-size: 1rem;
+        margin: 0px 20px 0px 20px;
+    }
+    .menu__footer{
+        font-size: 1.35rem;
+    }
+    .mangakyou__footer{
+        padding-top: 10px;
+    }
+    .mangakyou__footer ul li a {
+        font-size: 0.8rem;
+    }
+    .mangakyou__footer ul {
+        margin-bottom: 0.5rem;
+    }
+    .redes {
+        font-size: 1rem;
+    }
+    .padding {
+        padding-bottom: 0.6rem;
+    }
+    .card-title {
+        font-size: 1.1rem;
+    }
+    .card-text {
+        font-size: 1.2rem;
+    }
+    #intro-naruto {
+        height: 170px;
+    }
+    #intro-demon-slayer {
+        height: 170px;
+    }
+    #intro-jujutsu-kaisen {
+        height: 170px;
+    }
+    #intro-snk {
+        height: 170px;
+    }
+    #intro-nanatsu {
+        height: 170px;
+    }
+    #intro-figuras {
+        height: 170px;
+    }
+    #intro-accesorios {
+        height: 170px;
+    }
+    #intro-contacto {
+        height: 170px;
+    }
+    .text-white{
+        font-size: 1rem;
+    }
+    .texto-contacto__style{
+        font-size: 1.15rem;
+    }
+    input[type=checkbox] {
+        width: 19px;
+        height: 19px;
+        margin-left: 0.5rem;
+    }
+}
